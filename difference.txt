@@ -1,0 +1,2 @@
+os.path.realpath("/deep/../../../")
+os.path.realpath("deep/../../../")
